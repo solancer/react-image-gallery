@@ -1,5 +1,5 @@
 {
-  "name": "react-image-gallery",
+  "name": "react-image-gallery-solancer",
   "version": "0.7.13",
   "description": "Responsive and flexible carousel component with thumbnail support",
   "main": "./build/image-gallery",
